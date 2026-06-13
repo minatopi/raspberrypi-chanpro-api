@@ -1,6 +1,6 @@
 import json
 import requests
-from datetime import datetime, timedelta, timezone
+from datetime import datetime, timezone
 
 URL = "https://minatopi.github.io/chanpro-api/data.json"
 
@@ -19,13 +19,13 @@ def save(path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 remote = load_json(URL)
-
-now = datetime.now(timezone.utc)
+now = datetime.now(timezone.utc).isoformat()
 
 state = load_local("state.json")
 old_map = {p["title"]: p for p in state.get("posts", [])}
 
 output_posts = []
+new_state_posts = []
 
 for p in remote["posts"]:
     title = p["title"]
@@ -36,34 +36,25 @@ for p in remote["posts"]:
 
     if not old:
         status = "new"
-        first_seen = now
+    elif old["like"] == like and old["views"] == views:
+        status = "old"
     else:
-        first_seen = datetime.fromisoformat(old["first_seen"])
+        status = "updated"
 
-        if old["like"] == like and old["views"] == views:
-            status = "old"
-        else:
-            status = "updated"
-
-    output_posts.append({
+    item = {
         "title": title,
         "like": like,
         "views": views,
-        "status": status,
-        "first_seen": first_seen.isoformat()
-    })
+        "status": status
+    }
 
-# 7日以上削除
-one_week_ago = now - timedelta(days=7)
-output_posts = [
-    p for p in output_posts
-    if datetime.fromisoformat(p["first_seen"]) > one_week_ago
-]
+    output_posts.append(item)
+    new_state_posts.append(item)
 
 output = {
-    "last_updated": now.isoformat(),
+    "last_updated": now,
     "posts": output_posts
 }
 
 save("output.json", output)
-save("state.json", output)
+save("state.json", {"posts": new_state_posts})
