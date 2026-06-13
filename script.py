@@ -21,11 +21,12 @@ def save(path, data):
 remote = load_json(URL)
 now = datetime.now(timezone.utc).isoformat()
 
+# stateを辞書で持つ（重要）
 state = load_local("state.json")
-old_map = {p["title"]: p for p in state.get("posts", [])}
+old_map = state.get("posts", {})
 
+new_state = {}
 output_posts = []
-new_state_posts = []
 
 for p in remote["posts"]:
     title = p["title"]
@@ -34,22 +35,25 @@ for p in remote["posts"]:
 
     old = old_map.get(title)
 
-    if not old:
+    if old is None:
         status = "new"
     elif old["like"] == like and old["views"] == views:
         status = "old"
     else:
         status = "updated"
 
-    item = {
+    output_posts.append({
         "title": title,
         "like": like,
         "views": views,
         "status": status
-    }
+    })
 
-    output_posts.append(item)
-    new_state_posts.append(item)
+    # state更新
+    new_state[title] = {
+        "like": like,
+        "views": views
+    }
 
 output = {
     "last_updated": now,
@@ -57,4 +61,4 @@ output = {
 }
 
 save("output.json", output)
-save("state.json", {"posts": new_state_posts})
+save("state.json", {"posts": new_state})
