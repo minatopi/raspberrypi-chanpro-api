@@ -1,6 +1,6 @@
 import json
 import requests
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 
 URL = "https://minatopi.github.io/chanpro-api/data.json"
 
@@ -19,13 +19,13 @@ def save(path, data):
         json.dump(data, f, ensure_ascii=False, indent=2)
 
 remote = load_json(URL)
-now = datetime.utcnow()
+
+now = datetime.now(timezone.utc)
 
 state = load_local("state.json")
 old_map = {p["title"]: p for p in state.get("posts", [])}
 
-output = []
-new_state = []
+output_posts = []
 
 for p in remote["posts"]:
     title = p["title"]
@@ -34,30 +34,36 @@ for p in remote["posts"]:
 
     old = old_map.get(title)
 
-    status = "new"
-    if old:
+    if not old:
+        status = "new"
+        first_seen = now
+    else:
+        first_seen = datetime.fromisoformat(old["first_seen"])
+
         if old["like"] == like and old["views"] == views:
             status = "old"
         else:
             status = "updated"
 
-    p["status"] = status
-    p["checked_at"] = now.isoformat()
+    output_posts.append({
+        "title": title,
+        "like": like,
+        "views": views,
+        "status": status,
+        "first_seen": first_seen.isoformat()
+    })
 
-    # 7日ルール用（初登場時間がなければ付与）
-    if old and "first_seen" in old:
-        p["first_seen"] = old["first_seen"]
-    else:
-        p["first_seen"] = now.isoformat()
-
-    output.append(p)
-
-# 7日以上前を削除
+# 7日以上削除
 one_week_ago = now - timedelta(days=7)
-output = [
-    p for p in output
-    if datetime.fromisoformat(p["first_seen"].replace("Z","")) > one_week_ago
+output_posts = [
+    p for p in output_posts
+    if datetime.fromisoformat(p["first_seen"]) > one_week_ago
 ]
 
-save("output.json", {"posts": output})
-save("state.json", {"posts": output})
+output = {
+    "last_updated": now.isoformat(),
+    "posts": output_posts
+}
+
+save("output.json", output)
+save("state.json", output)
