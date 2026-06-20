@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-20T10:57:24.813504+00:00",
+  "last_updated": "2026-06-20T12:27:43.332437+00:00",
   "count": 71,
   "posts": [
     {
@@ -10,9 +10,9 @@
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
-      "like": 152,
-      "views": 619,
-      "status": "old"
+      "like": 153,
+      "views": 620,
+      "status": "updated"
     },
     {
       "title": "「buttonを使った電卓(修正)」",
@@ -120,7 +120,7 @@
       "title": "「YouTube(重すぎ)」",
       "like": 5,
       "views": 34,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「翼をください【ほとんど完全自作】 疲れた…。」",
@@ -419,8 +419,8 @@
     {
       "title": "「自身のシェアプログラムの閲覧回数、評価を管理するプログラム」",
       "like": 1,
-      "views": 4,
-      "status": "old"
+      "views": 5,
+      "status": "updated"
     },
     {
       "title": "「mp3の音楽を再生！( Base64音声＆周波数分析)　メリーゴーランド《鏡の孤城》　優里」",
