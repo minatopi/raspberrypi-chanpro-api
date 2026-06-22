@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-06-22T18:45:24.919715+00:00",
+  "last_updated": "2026-06-22T21:31:02.223175+00:00",
   "count": 71,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 160,
       "views": 840,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
@@ -24,7 +24,7 @@
       "title": "「方程式の解を解く　【完全自作】」",
       "like": 80,
       "views": 424,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -246,7 +246,7 @@
       "title": "「Microsoft　BIng風」",
       "like": 2,
       "views": 23,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「秒針を噛む　ずっと真夜中でいいのに。【サウンドプログラミング】」",
@@ -420,7 +420,7 @@
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
       "like": 1,
       "views": 9,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「mp3の音楽を再生！( Base64音声＆周波数分析)　メリーゴーランド《鏡の孤城》　優里」",
