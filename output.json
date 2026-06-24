@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-24T12:05:47.460267+00:00",
+  "last_updated": "2026-06-24T15:17:56.169174+00:00",
   "count": 71,
   "posts": [
     {
@@ -18,7 +18,7 @@
       "title": "「buttonを使った電卓(修正)」",
       "like": 126,
       "views": 229,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -249,6 +249,12 @@
       "status": "old"
     },
     {
+      "title": "「マルバツゲーム（PythonコードをHTMLに変換したもの）」",
+      "like": 2,
+      "views": 9,
+      "status": "updated"
+    },
+    {
       "title": "「秒針を噛む　ずっと真夜中でいいのに。【サウンドプログラミング】」",
       "like": 2,
       "views": 6,
@@ -381,12 +387,6 @@
       "status": "old"
     },
     {
-      "title": "「マルバツゲーム（PythonコードをHTMLに変換したもの）」",
-      "like": 1,
-      "views": 8,
-      "status": "old"
-    },
-    {
       "title": "「すずめの涙《すずめの戸締り》　RADWIMPS【サウンドプログラミング】」",
       "like": 1,
       "views": 6,
@@ -419,8 +419,8 @@
     {
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
       "like": 1,
-      "views": 9,
-      "status": "old"
+      "views": 11,
+      "status": "updated"
     },
     {
       "title": "「mp3の音楽を再生！( Base64音声＆周波数分析)　メリーゴーランド《鏡の孤城》　優里」",
