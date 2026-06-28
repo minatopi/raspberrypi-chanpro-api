@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T10:40:40.192976+00:00",
+  "last_updated": "2026-06-28T12:15:39.666297+00:00",
   "count": 71,
   "posts": [
     {
@@ -42,7 +42,7 @@
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】」",
       "like": 62,
       "views": 112,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ランダム迷路作成　 プログラミングアートコンテストプログラム 特別賞受賞作品」",
@@ -83,7 +83,7 @@
     {
       "title": "「google風」",
       "like": 7,
-      "views": 60,
+      "views": 61,
       "status": "updated"
     },
     {
@@ -108,7 +108,7 @@
       "title": "「YouTube(重すぎ)」",
       "like": 6,
       "views": 43,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -252,7 +252,7 @@
       "title": "「マルバツゲーム（PythonコードをHTMLに変換したもの）」",
       "like": 2,
       "views": 11,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「秒針を噛む　ずっと真夜中でいいのに。【サウンドプログラミング】」",
@@ -420,7 +420,7 @@
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
       "like": 1,
       "views": 13,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「mp3の音楽を再生！( Base64音声＆周波数分析)　メリーゴーランド《鏡の孤城》　優里」",
