@@ -1,24 +1,24 @@
 {
-  "last_updated": "2026-06-29T15:56:59.955046+00:00",
+  "last_updated": "2026-06-29T18:10:30.904569+00:00",
   "count": 71,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 160,
       "views": 842,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
       "like": 155,
       "views": 624,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「buttonを使った電卓(修正)」",
       "like": 127,
       "views": 229,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -108,7 +108,7 @@
       "title": "「YouTube(重すぎ)」",
       "like": 6,
       "views": 45,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -246,7 +246,7 @@
       "title": "「Microsoft　BIng風」",
       "like": 2,
       "views": 26,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「マルバツゲーム（PythonコードをHTMLに変換したもの）」",
