@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-04T01:07:44.315487+00:00",
+  "last_updated": "2026-07-04T05:08:00.162205+00:00",
   "count": 71,
   "posts": [
     {
@@ -18,7 +18,7 @@
       "title": "「buttonを使った電卓(修正)」",
       "like": 128,
       "views": 229,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -30,7 +30,7 @@
       "title": "「円グラフを作成！【完全自作】」",
       "like": 74,
       "views": 229,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ゴリ語翻訳所　【完全自作】」",
