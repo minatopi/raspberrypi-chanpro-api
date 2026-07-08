@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T11:46:56.855299+00:00",
+  "last_updated": "2026-07-08T14:01:15.122785+00:00",
   "count": 71,
   "posts": [
     {
@@ -12,7 +12,7 @@
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
       "like": 156,
       "views": 628,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「buttonを使った電卓(修正)」",
@@ -48,7 +48,7 @@
       "title": "「ランダム迷路作成　 プログラミングアートコンテストプログラム 特別賞受賞作品」",
       "like": 50,
       "views": 443,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「標準電極電位から電圧を計算！【完全自作】」",
@@ -84,13 +84,13 @@
       "title": "「google風」",
       "like": 7,
       "views": 66,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「YouTube(重すぎ)」",
       "like": 7,
       "views": 51,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -138,7 +138,7 @@
       "title": "「ライラック　Mrs. GREEN APPLE【サウンドプログラミング】」",
       "like": 4,
       "views": 36,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ケセラセラ　Mrs. GREEN APPLE【サウンドプログラミング】」」",
@@ -276,7 +276,7 @@
       "title": "「初期 周波数分析 メリーゴーランド《鏡の孤城》 優里」",
       "like": 2,
       "views": 14,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「君の名は。予告再現（canvas＆base64）」",
