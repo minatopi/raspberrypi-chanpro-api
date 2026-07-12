@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-12T09:27:20.125048+00:00",
+  "last_updated": "2026-07-12T10:54:40.511683+00:00",
   "count": 72,
   "posts": [
     {
@@ -12,7 +12,7 @@
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
       "like": 156,
       "views": 629,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「buttonを使った電卓(修正)」",
@@ -65,7 +65,7 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)」",
       "like": 15,
-      "views": 85,
+      "views": 86,
       "status": "updated"
     },
     {
@@ -90,13 +90,13 @@
       "title": "「google風」",
       "like": 7,
       "views": 69,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「YouTube(重すぎ)」",
       "like": 7,
       "views": 57,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -258,7 +258,7 @@
       "title": "「Microsoft　BIng風」",
       "like": 2,
       "views": 32,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「マルバツゲーム（PythonコードをHTMLに変換したもの）」",
