@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-26T07:35:36.194280+00:00",
-  "count": 73,
+  "last_updated": "2026-07-26T09:57:28.139139+00:00",
+  "count": 74,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
@@ -52,9 +52,9 @@
     },
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　みんなの追加してほしい機能を追加しました！(通報、写真追加、参加者一覧、アカウント化...)」",
-      "like": 45,
-      "views": 192,
-      "status": "old"
+      "like": 46,
+      "views": 204,
+      "status": "updated"
     },
     {
       "title": "「標準電極電位から電圧を計算！【完全自作】」",
@@ -89,14 +89,14 @@
     {
       "title": "「google風」",
       "like": 7,
-      "views": 72,
-      "status": "old"
+      "views": 73,
+      "status": "updated"
     },
     {
       "title": "「YouTube(重すぎ)」",
       "like": 7,
-      "views": 68,
-      "status": "old"
+      "views": 69,
+      "status": "updated"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -427,6 +427,12 @@
       "like": 1,
       "views": 7,
       "status": "old"
+    },
+    {
+      "title": "「チャットボックスのポイントのランキング　top10」",
+      "like": 10,
+      "views": 1,
+      "status": "new"
     },
     {
       "title": "「mp3の音楽を再生！( Base64音声＆周波数分析)　メリーゴーランド《鏡の孤城》　優里」",
