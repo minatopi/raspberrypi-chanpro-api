@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-08-07T00:23:18.316970+00:00",
+  "last_updated": "2026-08-07T03:27:11.933701+00:00",
   "count": 74,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 162,
       "views": 867,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
@@ -30,7 +30,7 @@
       "title": "「円グラフを作成！【完全自作】」",
       "like": 77,
       "views": 229,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ゴリ語翻訳所　【完全自作】」",
@@ -42,7 +42,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　みんなの追加してほしい機能を追加しました！(通報、写真追加、アカウント化、ポイント機能...)」",
       "like": 66,
       "views": 296,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】」",
@@ -89,14 +89,14 @@
     {
       "title": "「google風」",
       "like": 8,
-      "views": 77,
-      "status": "old"
+      "views": 78,
+      "status": "updated"
     },
     {
       "title": "「YouTube(重すぎ)」",
       "like": 8,
-      "views": 73,
-      "status": "old"
+      "views": 74,
+      "status": "updated"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -186,7 +186,7 @@
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
       "like": 3,
       "views": 21,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「軌道（放物線) 【完全自作版】」",
