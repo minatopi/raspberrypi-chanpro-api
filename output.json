@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T12:08:41.173853+00:00",
+  "last_updated": "2026-08-12T13:56:08.376406+00:00",
   "count": 76,
   "posts": [
     {
@@ -90,7 +90,7 @@
       "title": "「google風」",
       "like": 8,
       "views": 81,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「YouTube(重すぎ)」",
@@ -162,7 +162,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 4,
       "views": 21,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「期待値（ルーレット)　ルーレットの損か得か【完全自作】」",
@@ -454,7 +454,7 @@
     },
     {
       "title": "「AI人狼」",
-      "like": 2,
+      "like": 3,
       "views": 0,
       "status": "updated"
     }
