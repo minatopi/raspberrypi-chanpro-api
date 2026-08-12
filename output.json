@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-12T11:20:48.279513+00:00",
+  "last_updated": "2026-08-12T12:08:41.173853+00:00",
   "count": 76,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　みんなの追加してほしい機能を追加しました！(通報、写真追加、アカウント化、ポイント機能...)」",
       "like": 87,
       "views": 371,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -89,8 +89,8 @@
     {
       "title": "「google風」",
       "like": 8,
-      "views": 80,
-      "status": "old"
+      "views": 81,
+      "status": "updated"
     },
     {
       "title": "「YouTube(重すぎ)」",
@@ -161,7 +161,7 @@
     {
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 4,
-      "views": 20,
+      "views": 21,
       "status": "updated"
     },
     {
@@ -454,9 +454,9 @@
     },
     {
       "title": "「AI人狼」",
-      "like": 0,
+      "like": 2,
       "views": 0,
-      "status": "new"
+      "status": "updated"
     }
   ]
 }
