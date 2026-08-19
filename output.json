@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T07:35:36.212800+00:00",
-  "count": 76,
+  "last_updated": "2026-08-19T08:34:05.193662+00:00",
+  "count": 77,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
@@ -311,8 +311,8 @@
     {
       "title": "「World's Smallest Violin　AGK【サウンドプログラミング】」",
       "like": 2,
-      "views": 8,
-      "status": "old"
+      "views": 9,
+      "status": "updated"
     },
     {
       "title": "「君の名は。予告再現（canvas＆base64）」",
@@ -457,6 +457,12 @@
       "like": 3,
       "views": 64,
       "status": "old"
+    },
+    {
+      "title": "「端末ごとのアカウント関係」",
+      "like": 0,
+      "views": 0,
+      "status": "new"
     }
   ]
 }
