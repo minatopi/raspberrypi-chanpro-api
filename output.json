@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-19T08:34:05.193662+00:00",
+  "last_updated": "2026-08-19T09:31:24.598430+00:00",
   "count": 77,
   "posts": [
     {
@@ -312,7 +312,7 @@
       "title": "「World's Smallest Violin　AGK【サウンドプログラミング】」",
       "like": 2,
       "views": 9,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「君の名は。予告再現（canvas＆base64）」",
@@ -462,7 +462,7 @@
       "title": "「端末ごとのアカウント関係」",
       "like": 0,
       "views": 0,
-      "status": "new"
+      "status": "old"
     }
   ]
 }
