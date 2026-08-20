@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T12:43:22.500016+00:00",
+  "last_updated": "2026-08-20T13:43:28.594678+00:00",
   "count": 78,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 89,
       "views": 489,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -144,7 +144,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 5,
       "views": 64,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「翼をください【ほとんど完全自作】 疲れた…。」",
@@ -227,8 +227,8 @@
     {
       "title": "「グッバイ宣言　Chinozo【サウンドプログラミング】」",
       "like": 2,
-      "views": 28,
-      "status": "old"
+      "views": 29,
+      "status": "updated"
     },
     {
       "title": "「群青　YOASOBI【サウンドプログラミング】」",
@@ -330,7 +330,7 @@
       "title": "「端末ごとのアカウント関係」",
       "like": 2,
       "views": 9,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（花）【完全自作】」",
