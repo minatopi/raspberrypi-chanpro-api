@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T08:34:59.058698+00:00",
+  "last_updated": "2026-08-20T09:31:44.021888+00:00",
   "count": 77,
   "posts": [
     {
@@ -23,8 +23,8 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 89,
-      "views": 480,
-      "status": "old"
+      "views": 482,
+      "status": "updated"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -167,8 +167,8 @@
     {
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 4,
-      "views": 62,
-      "status": "old"
+      "views": 63,
+      "status": "updated"
     },
     {
       "title": "「期待値（ルーレット)　ルーレットの損か得か【完全自作】」",
@@ -203,8 +203,8 @@
     {
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
       "like": 3,
-      "views": 26,
-      "status": "old"
+      "views": 27,
+      "status": "updated"
     },
     {
       "title": "「軌道（放物線) 【完全自作版】」",
@@ -461,8 +461,8 @@
     {
       "title": "「端末ごとのアカウント関係」",
       "like": 1,
-      "views": 3,
-      "status": "old"
+      "views": 6,
+      "status": "updated"
     }
   ]
 }
