@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T05:27:43.511668+00:00",
+  "last_updated": "2026-08-20T05:57:40.931862+00:00",
   "count": 77,
   "posts": [
     {
@@ -23,7 +23,7 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 89,
-      "views": 477,
+      "views": 479,
       "status": "updated"
     },
     {
@@ -167,8 +167,8 @@
     {
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 4,
-      "views": 61,
-      "status": "old"
+      "views": 62,
+      "status": "updated"
     },
     {
       "title": "「期待値（ルーレット)　ルーレットの損か得か【完全自作】」",
@@ -323,7 +323,7 @@
     {
       "title": "「AIvsAIのAI人狼！」",
       "like": 2,
-      "views": 22,
+      "views": 23,
       "status": "updated"
     },
     {
