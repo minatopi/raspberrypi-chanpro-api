@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-20T04:34:43.066940+00:00",
+  "last_updated": "2026-08-20T05:27:43.511668+00:00",
   "count": 77,
   "posts": [
     {
@@ -23,8 +23,8 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 89,
-      "views": 476,
-      "status": "old"
+      "views": 477,
+      "status": "updated"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -323,8 +323,8 @@
     {
       "title": "「AIvsAIのAI人狼！」",
       "like": 2,
-      "views": 21,
-      "status": "old"
+      "views": 22,
+      "status": "updated"
     },
     {
       "title": "「アート（花）【完全自作】」",
