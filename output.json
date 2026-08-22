@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-22T03:39:32.503617+00:00",
+  "last_updated": "2026-08-22T04:29:53.647118+00:00",
   "count": 78,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 89,
       "views": 502,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -330,7 +330,7 @@
       "title": "「端末ごとのアカウント関係」",
       "like": 2,
       "views": 18,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（花）【完全自作】」",
@@ -466,9 +466,9 @@
     },
     {
       "title": "「今、再生回数が一番多い曲一覧(githubによる定期実行)」",
-      "like": 0,
+      "like": 1,
       "views": 0,
-      "status": "old"
+      "status": "updated"
     }
   ]
 }
