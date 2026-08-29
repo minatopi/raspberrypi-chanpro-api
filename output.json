@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T01:27:31.861102+00:00",
+  "last_updated": "2026-08-29T08:12:38.301017+00:00",
   "count": 80,
   "posts": [
     {
@@ -23,8 +23,8 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 89,
-      "views": 553,
-      "status": "old"
+      "views": 556,
+      "status": "updated"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -47,7 +47,7 @@
     {
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】」",
       "like": 64,
-      "views": 131,
+      "views": 132,
       "status": "updated"
     },
     {
@@ -89,8 +89,8 @@
     {
       "title": "「google風」",
       "like": 8,
-      "views": 82,
-      "status": "old"
+      "views": 83,
+      "status": "updated"
     },
     {
       "title": "「YouTube(重すぎ)」",
@@ -125,7 +125,7 @@
     {
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 6,
-      "views": 89,
+      "views": 90,
       "status": "updated"
     },
     {
@@ -335,7 +335,7 @@
     {
       "title": "「あくあ色パレット　湊あくあ　HTML版【サウンドプログラム】」",
       "like": 2,
-      "views": 5,
+      "views": 6,
       "status": "updated"
     },
     {
