@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-30T01:02:49.702090+00:00",
+  "last_updated": "2026-08-30T07:04:01.770552+00:00",
   "count": 81,
   "posts": [
     {
@@ -11,8 +11,8 @@
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
       "like": 156,
-      "views": 636,
-      "status": "old"
+      "views": 637,
+      "status": "updated"
     },
     {
       "title": "「buttonを使った電卓(修正)」",
@@ -23,7 +23,7 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 89,
-      "views": 562,
+      "views": 564,
       "status": "updated"
     },
     {
@@ -41,8 +41,8 @@
     {
       "title": "「ゴリ語翻訳所　【完全自作】」",
       "like": 66,
-      "views": 378,
-      "status": "old"
+      "views": 379,
+      "status": "updated"
     },
     {
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】」",
@@ -125,7 +125,7 @@
     {
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 6,
-      "views": 95,
+      "views": 98,
       "status": "updated"
     },
     {
@@ -173,8 +173,8 @@
     {
       "title": "「AIvsAIのAI人狼！」",
       "like": 4,
-      "views": 29,
-      "status": "old"
+      "views": 31,
+      "status": "updated"
     },
     {
       "title": "「期待値（ルーレット)　ルーレットの損か得か【完全自作】」",
@@ -222,7 +222,7 @@
       "title": "「端末ごとのアカウント関係」",
       "like": 3,
       "views": 22,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「軌道（放物線) 【完全自作版】」",
@@ -275,8 +275,8 @@
     {
       "title": "「うっせぇわ　Ado【サウンドプログラミング】」",
       "like": 2,
-      "views": 9,
-      "status": "old"
+      "views": 10,
+      "status": "updated"
     },
     {
       "title": "「晩餐歌　tuki【サウンドプログラミング】」",
@@ -299,8 +299,8 @@
     {
       "title": "「Microsoft　BIng風」",
       "like": 2,
-      "views": 32,
-      "status": "old"
+      "views": 33,
+      "status": "updated"
     },
     {
       "title": "「マルバツゲーム（PythonコードをHTMLに変換したもの）」",
@@ -323,14 +323,14 @@
     {
       "title": "「ヴァルキューレの騎行 リッカルド・シャイー指揮　ロイヤル・コンセルトヘボウ管弦楽団【サウンドプログラミング】」",
       "like": 2,
-      "views": 8,
-      "status": "old"
+      "views": 10,
+      "status": "updated"
     },
     {
       "title": "「World's Smallest Violin　AGK【サウンドプログラミング】」",
       "like": 2,
-      "views": 9,
-      "status": "old"
+      "views": 10,
+      "status": "updated"
     },
     {
       "title": "「あくあ色パレット　湊あくあ　HTML版【サウンドプログラム】」",
@@ -473,8 +473,8 @@
     {
       "title": "「夜の踊り子(一部)　サカナクション【サウンドプログラミング】」",
       "like": 1,
-      "views": 1,
-      "status": "old"
+      "views": 3,
+      "status": "updated"
     },
     {
       "title": "「画面共有プログラム（実験）」",
