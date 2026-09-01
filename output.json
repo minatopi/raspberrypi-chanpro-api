@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-01T15:30:56.253793+00:00",
+  "last_updated": "2026-09-01T19:11:50.380098+00:00",
   "count": 83,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 163,
       "views": 878,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
@@ -18,13 +18,13 @@
       "title": "「buttonを使った電卓(修正)」",
       "like": 128,
       "views": 236,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 89,
       "views": 584,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -48,7 +48,7 @@
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】」",
       "like": 64,
       "views": 135,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ランダム迷路作成　 プログラミングアートコンテストプログラム 特別賞受賞作品」",
@@ -96,7 +96,7 @@
       "title": "「YouTube(重すぎ)」",
       "like": 8,
       "views": 85,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -126,13 +126,13 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 6,
       "views": 109,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
       "like": 5,
       "views": 14,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「（実験）アイドル　YOASOBI【サウンドプログラミング】」",
@@ -150,7 +150,7 @@
       "title": "「ピアノロール　超真っ黒ナイトオブナイト」",
       "like": 5,
       "views": 11,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「翼をください【ほとんど完全自作】 疲れた…。」",
@@ -174,7 +174,7 @@
       "title": "「初期 周波数分析 メリーゴーランド《鏡の孤城》 優里」",
       "like": 4,
       "views": 17,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「AIvsAIのAI人狼！」",
@@ -216,7 +216,7 @@
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
       "like": 3,
       "views": 29,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「端末ごとのアカウント関係」",
@@ -246,7 +246,7 @@
       "title": "「グッバイ宣言　Chinozo【サウンドプログラミング】」",
       "like": 2,
       "views": 32,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「群青　YOASOBI【サウンドプログラミング】」",
@@ -300,7 +300,7 @@
       "title": "「Microsoft　BIng風」",
       "like": 2,
       "views": 35,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「マルバツゲーム（PythonコードをHTMLに変換したもの）」",
@@ -312,13 +312,13 @@
       "title": "「秒針を噛む　ずっと真夜中でいいのに。【サウンドプログラミング】」",
       "like": 2,
       "views": 8,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】　HTML版」",
       "like": 2,
       "views": 7,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ヴァルキューレの騎行 リッカルド・シャイー指揮　ロイヤル・コンセルトヘボウ管弦楽団【サウンドプログラミング】」",
@@ -426,13 +426,13 @@
       "title": "「（実験）大丈夫《天気の子》　RADWIMPS【サウンドプログラミング】」",
       "like": 1,
       "views": 10,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「晩餐歌　tuki【サウンドプログラミング】　HTML版」",
       "like": 1,
       "views": 14,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ハルジオン　YOASOBI【サウンドプログラミング】」",
@@ -456,7 +456,7 @@
       "title": "「秒針を噛む　ずっと真夜中でいいのに。【サウンドプログラミング】　HTML版」",
       "like": 1,
       "views": 17,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「SAY YES　CHAGE and ASKA【サウンドプログラミング】」",
@@ -474,13 +474,13 @@
       "title": "「夜の踊り子(一部)　サカナクション【サウンドプログラミング】」",
       "like": 1,
       "views": 4,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 1,
       "views": 16,
-      "status": "new"
+      "status": "old"
     },
     {
       "title": "「今、再生回数が一番多い曲一覧(githubによる定期実行)」",
@@ -498,7 +498,7 @@
       "title": "「Spotify風音楽共有プログラム(作成中)」",
       "like": 10,
       "views": 0,
-      "status": "updated"
+      "status": "old"
     }
   ]
 }
