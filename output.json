@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-02T07:38:06.613124+00:00",
-  "count": 83,
+  "last_updated": "2026-09-02T12:32:34.281842+00:00",
+  "count": 84,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 163,
-      "views": 879,
-      "status": "old"
+      "views": 880,
+      "status": "updated"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
@@ -23,14 +23,14 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 89,
-      "views": 586,
+      "views": 587,
       "status": "updated"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
       "like": 80,
-      "views": 431,
-      "status": "old"
+      "views": 432,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -53,8 +53,8 @@
     {
       "title": "「ランダム迷路作成　 プログラミングアートコンテストプログラム 特別賞受賞作品」",
       "like": 51,
-      "views": 450,
-      "status": "old"
+      "views": 451,
+      "status": "updated"
     },
     {
       "title": "「標準電極電位から電圧を計算！【完全自作】」",
@@ -89,14 +89,14 @@
     {
       "title": "「google風」",
       "like": 8,
-      "views": 83,
-      "status": "old"
+      "views": 84,
+      "status": "updated"
     },
     {
       "title": "「YouTube(重すぎ)」",
       "like": 8,
-      "views": 85,
-      "status": "old"
+      "views": 87,
+      "status": "updated"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -126,7 +126,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 6,
       "views": 112,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -191,8 +191,8 @@
     {
       "title": "「正面衝突事故の怖さを知るプログラム　【完全自作】」",
       "like": 3,
-      "views": 29,
-      "status": "old"
+      "views": 30,
+      "status": "updated"
     },
     {
       "title": "「プッシュ音（ほとんど完全自作）」",
@@ -486,7 +486,7 @@
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 1,
       "views": 20,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「Spotify風」",
@@ -499,6 +499,12 @@
       "like": 10,
       "views": 0,
       "status": "old"
+    },
+    {
+      "title": "「ちゃんプロポストテストプロジェクト」",
+      "like": 1,
+      "views": 0,
+      "status": "new"
     }
   ]
 }
