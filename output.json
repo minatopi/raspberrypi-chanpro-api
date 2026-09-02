@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T02:54:27.357665+00:00",
+  "last_updated": "2026-09-02T07:38:06.613124+00:00",
   "count": 83,
   "posts": [
     {
@@ -23,8 +23,8 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 89,
-      "views": 585,
-      "status": "old"
+      "views": 586,
+      "status": "updated"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -125,8 +125,8 @@
     {
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 6,
-      "views": 111,
-      "status": "old"
+      "views": 112,
+      "status": "updated"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -264,7 +264,7 @@
       "title": "「夜に駆ける　YOASOBI【サウンドプログラミング】」",
       "like": 2,
       "views": 25,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「スパークル　RADWIMPS【サウンドプログラミング】」",
@@ -485,8 +485,8 @@
     {
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 1,
-      "views": 19,
-      "status": "old"
+      "views": 20,
+      "status": "updated"
     },
     {
       "title": "「Spotify風」",
