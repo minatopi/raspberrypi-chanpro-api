@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-04T14:46:47.471171+00:00",
+  "last_updated": "2026-09-04T18:05:49.603726+00:00",
   "count": 87,
   "posts": [
     {
@@ -102,7 +102,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 7,
       "views": 117,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -504,7 +504,7 @@
       "title": "「アゲハ蝶　ポルノグラフィティ【サウンドプログラム】」",
       "like": 0,
       "views": 0,
-      "status": "new"
+      "status": "old"
     },
     {
       "title": "「Spotify風」",
@@ -522,7 +522,7 @@
       "title": "「こうせいくんへの例プログラム」",
       "like": 3,
       "views": 0,
-      "status": "new"
+      "status": "old"
     }
   ]
 }
