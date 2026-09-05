@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-05T15:46:22.498670+00:00",
+  "last_updated": "2026-09-05T17:54:15.028775+00:00",
   "count": 88,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 90,
       "views": 609,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -102,7 +102,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 8,
       "views": 129,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -222,7 +222,7 @@
       "title": "「端末ごとのアカウント関係」",
       "like": 3,
       "views": 38,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「軌道（放物線) 【完全自作版】」",
@@ -528,7 +528,7 @@
       "title": "「スクラッチ（埋め込みテスト）」",
       "like": 1,
       "views": 0,
-      "status": "new"
+      "status": "old"
     }
   ]
 }
