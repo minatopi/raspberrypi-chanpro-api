@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-05T12:54:38.038654+00:00",
-  "count": 87,
+  "last_updated": "2026-09-05T15:46:22.498670+00:00",
+  "count": 88,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
@@ -23,7 +23,7 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 90,
-      "views": 601,
+      "views": 609,
       "status": "updated"
     },
     {
@@ -101,7 +101,7 @@
     {
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 8,
-      "views": 125,
+      "views": 129,
       "status": "updated"
     },
     {
@@ -221,7 +221,7 @@
     {
       "title": "「端末ごとのアカウント関係」",
       "like": 3,
-      "views": 27,
+      "views": 38,
       "status": "updated"
     },
     {
@@ -462,7 +462,7 @@
       "title": "「秒針を噛む　ずっと真夜中でいいのに。【サウンドプログラミング】　HTML版」",
       "like": 1,
       "views": 22,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「SAY YES　CHAGE and ASKA【サウンドプログラミング】」",
@@ -492,13 +492,13 @@
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 1,
       "views": 22,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
       "like": 1,
       "views": 14,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アゲハ蝶　ポルノグラフィティ【サウンドプログラム】」",
@@ -516,13 +516,19 @@
       "title": "「ポストいいねテスト（プログラムは空）2」",
       "like": 2,
       "views": 2,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「こうせいくんへの例プログラム」",
       "like": 5,
       "views": 0,
       "status": "old"
+    },
+    {
+      "title": "「スクラッチ（埋め込みテスト）」",
+      "like": 1,
+      "views": 0,
+      "status": "new"
     }
   ]
 }
