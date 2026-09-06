@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-06T17:38:23.346532+00:00",
+  "last_updated": "2026-09-06T20:00:11.779072+00:00",
   "count": 89,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 91,
       "views": 625,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -102,7 +102,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 8,
       "views": 134,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
