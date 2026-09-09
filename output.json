@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T08:18:33.074738+00:00",
-  "count": 90,
+  "last_updated": "2026-09-09T13:04:03.048999+00:00",
+  "count": 91,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 91,
       "views": 632,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -96,13 +96,13 @@
       "title": "「YouTube(重すぎ)」",
       "like": 8,
       "views": 90,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 8,
       "views": 143,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -345,6 +345,12 @@
       "status": "old"
     },
     {
+      "title": "「テスト」",
+      "like": 2,
+      "views": 10,
+      "status": "new"
+    },
+    {
       "title": "「アート（花）【完全自作】」",
       "like": 1,
       "views": 8,
@@ -491,8 +497,8 @@
     {
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 1,
-      "views": 22,
-      "status": "old"
+      "views": 25,
+      "status": "updated"
     },
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
@@ -539,8 +545,8 @@
     {
       "title": "「こうくんからの相談プログラム」",
       "like": 0,
-      "views": 1,
-      "status": "old"
+      "views": 2,
+      "status": "updated"
     }
   ]
 }
