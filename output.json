@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-11T14:50:07.979952+00:00",
+  "last_updated": "2026-09-11T18:10:07.503407+00:00",
   "count": 93,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 164,
       "views": 884,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
@@ -24,19 +24,19 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 92,
       "views": 642,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
       "like": 80,
       "views": 435,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
       "like": 78,
       "views": 230,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ゴリ語翻訳所　【完全自作】」",
@@ -84,7 +84,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 9,
       "views": 161,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -126,7 +126,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 6,
       "views": 175,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -228,7 +228,7 @@
       "title": "「テスト」",
       "like": 3,
       "views": 17,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「軌道（放物線) 【完全自作版】」",
@@ -498,7 +498,7 @@
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 1,
       "views": 36,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
@@ -534,7 +534,7 @@
       "title": "「ログイン処理」",
       "like": 0,
       "views": 1,
-      "status": "new"
+      "status": "old"
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）2」",
@@ -558,7 +558,7 @@
       "title": "「協力ゲーム」",
       "like": 0,
       "views": 2,
-      "status": "new"
+      "status": "old"
     }
   ]
 }
