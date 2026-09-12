@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-11T23:27:00.613157+00:00",
+  "last_updated": "2026-09-12T01:23:53.046801+00:00",
   "count": 93,
   "posts": [
     {
@@ -227,8 +227,8 @@
     {
       "title": "「テスト」",
       "like": 3,
-      "views": 17,
-      "status": "old"
+      "views": 18,
+      "status": "updated"
     },
     {
       "title": "「軌道（放物線) 【完全自作版】」",
@@ -533,8 +533,8 @@
     {
       "title": "「ログイン処理」",
       "like": 0,
-      "views": 1,
-      "status": "old"
+      "views": 2,
+      "status": "updated"
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）2」",
@@ -557,8 +557,8 @@
     {
       "title": "「協力ゲーム」",
       "like": 0,
-      "views": 2,
-      "status": "old"
+      "views": 3,
+      "status": "updated"
     }
   ]
 }
