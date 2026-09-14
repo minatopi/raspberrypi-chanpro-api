@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T00:19:57.697514+00:00",
+  "last_updated": "2026-09-14T05:16:31.081468+00:00",
   "count": 92,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 92,
       "views": 669,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -78,7 +78,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 11,
       "views": 177,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -102,7 +102,7 @@
       "title": "「YouTube(重すぎ)」",
       "like": 8,
       "views": 93,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -126,7 +126,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 6,
       "views": 192,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -156,7 +156,7 @@
       "title": "「AIvsAIのAI人狼！」",
       "like": 5,
       "views": 35,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「翼をください【ほとんど完全自作】 疲れた…。」",
@@ -222,7 +222,7 @@
       "title": "「テスト」",
       "like": 3,
       "views": 20,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「軌道（放物線) 【完全自作版】」",
@@ -336,7 +336,7 @@
       "title": "「あくあ色パレット　湊あくあ　HTML版【サウンドプログラム】」",
       "like": 2,
       "views": 12,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）」",
@@ -420,7 +420,7 @@
       "title": "「markov連鎖による文章作成　【完全自作】」",
       "like": 1,
       "views": 6,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「愛にできることはまだあるかい　RADWIMPS【サウンドプログラミング】」」",
@@ -480,7 +480,7 @@
       "title": "「夜の踊り子(一部)　サカナクション【サウンドプログラミング】」",
       "like": 1,
       "views": 12,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「今、再生回数が一番多い曲一覧(githubによる定期実行)」",
@@ -528,7 +528,7 @@
       "title": "「ログイン処理」",
       "like": 0,
       "views": 4,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）2」",
@@ -540,7 +540,7 @@
       "title": "「スクラッチ（埋め込みテスト）」",
       "like": 0,
       "views": 4,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「こうくんからの相談プログラム」",
