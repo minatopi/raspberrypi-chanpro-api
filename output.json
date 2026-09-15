@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-14T23:40:49.331366+00:00",
+  "last_updated": "2026-09-15T03:26:02.879441+00:00",
   "count": 93,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 92,
       "views": 673,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -42,7 +42,7 @@
       "title": "「ゴリ語翻訳所　【完全自作】」",
       "like": 67,
       "views": 382,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】」",
@@ -54,7 +54,7 @@
       "title": "「ランダム迷路作成　 プログラミングアートコンテストプログラム 特別賞受賞作品」",
       "like": 52,
       "views": 455,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「標準電極電位から電圧を計算！【完全自作】」",
@@ -78,7 +78,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 11,
       "views": 178,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -102,7 +102,7 @@
       "title": "「YouTube(重すぎ)」",
       "like": 8,
       "views": 94,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -126,7 +126,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 6,
       "views": 194,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -522,7 +522,7 @@
       "title": "「衛星画像（NASA　API）」",
       "like": 0,
       "views": 0,
-      "status": "new"
+      "status": "old"
     },
     {
       "title": "「Spotify風」",
