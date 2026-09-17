@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-17T00:04:58.549180+00:00",
+  "last_updated": "2026-09-17T05:06:37.916050+00:00",
   "count": 93,
   "posts": [
     {
@@ -108,7 +108,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 7,
       "views": 196,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -336,13 +336,13 @@
       "title": "「夜の踊り子(一部)　サカナクション【サウンドプログラミング】」",
       "like": 2,
       "views": 13,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「あくあ色パレット　湊あくあ　HTML版【サウンドプログラム】」",
       "like": 2,
       "views": 13,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）」",
@@ -516,7 +516,7 @@
       "title": "「実験中」",
       "like": 1,
       "views": 4,
-      "status": "new"
+      "status": "old"
     },
     {
       "title": "「アゲハ蝶　ポルノグラフィティ【サウンドプログラム】」",
