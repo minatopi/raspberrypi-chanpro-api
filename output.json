@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-19T06:27:13.040286+00:00",
+  "last_updated": "2026-09-19T11:22:08.333234+00:00",
   "count": 93,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 92,
       "views": 684,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -96,7 +96,7 @@
       "title": "「google風」",
       "like": 8,
       "views": 88,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「YouTube(重すぎ)」",
@@ -108,7 +108,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 7,
       "views": 197,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -300,7 +300,7 @@
       "title": "「Microsoft　BIng風」",
       "like": 2,
       "views": 36,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「マルバツゲーム（PythonコードをHTMLに変換したもの）」",
@@ -516,7 +516,7 @@
       "title": "「実験中」",
       "like": 1,
       "views": 13,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アゲハ蝶　ポルノグラフィティ【サウンドプログラム】」",
