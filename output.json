@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-21T05:54:05.141876+00:00",
+  "last_updated": "2026-09-21T12:00:41.673086+00:00",
   "count": 93,
   "posts": [
     {
@@ -24,13 +24,13 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 92,
       "views": 700,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
       "like": 81,
       "views": 231,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -78,7 +78,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
       "views": 195,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
