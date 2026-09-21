@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-20T22:36:10.640508+00:00",
+  "last_updated": "2026-09-21T00:50:15.935151+00:00",
   "count": 93,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 92,
       "views": 699,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -78,7 +78,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 11,
       "views": 191,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -108,7 +108,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 8,
       "views": 205,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -156,7 +156,7 @@
       "title": "「AIvsAIのAI人狼！」",
       "like": 5,
       "views": 38,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「翼をください【ほとんど完全自作】 疲れた…。」",
@@ -222,19 +222,19 @@
       "title": "「今、再生回数が一番多い曲一覧(githubによる定期実行)」",
       "like": 3,
       "views": 8,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「あくあ色パレット　湊あくあ　HTML版【サウンドプログラム】」",
       "like": 3,
       "views": 16,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「テスト」",
       "like": 3,
       "views": 21,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「軌道（放物線) 【完全自作版】」",
@@ -498,7 +498,7 @@
       "title": "「Spotify風」",
       "like": 1,
       "views": 5,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
@@ -522,7 +522,7 @@
       "title": "「実験中」",
       "like": 1,
       "views": 19,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アゲハ蝶　ポルノグラフィティ【サウンドプログラム】」",
@@ -540,7 +540,7 @@
       "title": "「ポストいいねテスト（プログラムは空）2」",
       "like": 0,
       "views": 3,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「スクラッチ（埋め込みテスト）」",
@@ -558,7 +558,7 @@
       "title": "「協力ゲーム」",
       "like": 0,
       "views": 6,
-      "status": "updated"
+      "status": "old"
     }
   ]
 }
