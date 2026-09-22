@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-22T06:01:10.405726+00:00",
+  "last_updated": "2026-09-22T11:55:57.484976+00:00",
   "count": 93,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 92,
       "views": 702,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -54,13 +54,13 @@
       "title": "「ランダム迷路作成　 プログラミングアートコンテストプログラム 特別賞受賞作品」",
       "like": 52,
       "views": 456,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「標準電極電位から電圧を計算！【完全自作】」",
       "like": 34,
       "views": 149,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「余事象（サイコロ）【完全自作】」",
@@ -78,13 +78,13 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
       "views": 202,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
       "like": 10,
       "views": 100,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -108,7 +108,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 8,
       "views": 208,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -498,7 +498,7 @@
       "title": "「Spotify風」",
       "like": 1,
       "views": 6,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
