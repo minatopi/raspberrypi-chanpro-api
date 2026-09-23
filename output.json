@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-23T01:14:42.603634+00:00",
-  "count": 93,
+  "last_updated": "2026-09-23T06:19:47.319708+00:00",
+  "count": 95,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 164,
-      "views": 885,
-      "status": "old"
+      "views": 886,
+      "status": "updated"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
@@ -23,8 +23,8 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 92,
-      "views": 702,
-      "status": "old"
+      "views": 703,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -78,7 +78,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
       "views": 204,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -108,7 +108,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 8,
       "views": 209,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -132,7 +132,7 @@
       "title": "「AIvsAIのAI人狼！」",
       "like": 6,
       "views": 39,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -492,7 +492,7 @@
       "title": "「アゲハ蝶　ポルノグラフィティ【サウンドプログラム】」",
       "like": 1,
       "views": 2,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
@@ -504,7 +504,7 @@
       "title": "「Spotify風」",
       "like": 1,
       "views": 7,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
@@ -559,6 +559,18 @@
       "like": 0,
       "views": 6,
       "status": "old"
+    },
+    {
+      "title": "「きゅうくらりん　いよわ　【サウンドプログラム】」",
+      "like": 0,
+      "views": 0,
+      "status": "new"
+    },
+    {
+      "title": "「ただ一つの声 ロクデナシ【サウンドプログラム】」",
+      "like": 0,
+      "views": 0,
+      "status": "new"
     }
   ]
 }
