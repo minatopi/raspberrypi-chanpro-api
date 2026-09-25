@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-24T23:45:31.137781+00:00",
+  "last_updated": "2026-09-25T03:28:31.623836+00:00",
   "count": 96,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 93,
       "views": 707,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -78,7 +78,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
       "views": 214,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -90,7 +90,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 9,
       "views": 211,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -186,7 +186,7 @@
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
       "like": 4,
       "views": 31,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「期待値（ルーレット)　ルーレットの損か得か【完全自作】」",
@@ -330,7 +330,7 @@
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】　HTML版」",
       "like": 2,
       "views": 11,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ヴァルキューレの騎行 リッカルド・シャイー指揮　ロイヤル・コンセルトヘボウ管弦楽団【サウンドプログラミング】」",
@@ -498,7 +498,7 @@
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 1,
       "views": 39,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「Spotify風」",
@@ -516,7 +516,7 @@
       "title": "「ポストいいねテスト（プログラムは空）2」",
       "like": 1,
       "views": 7,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「こうせいくんへの例プログラム」",
@@ -546,19 +546,19 @@
       "title": "「スクラッチ（埋め込みテスト）」",
       "like": 0,
       "views": 5,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「こうくんからの相談プログラム」",
       "like": 0,
       "views": 3,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「協力ゲーム」",
       "like": 0,
       "views": 7,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「きゅうくらりん　いよわ　【サウンドプログラム】」",
@@ -576,7 +576,7 @@
       "title": "「ちゃんプロ掲示板（ファイル共有場所）」",
       "like": 0,
       "views": 6,
-      "status": "updated"
+      "status": "old"
     }
   ]
 }
