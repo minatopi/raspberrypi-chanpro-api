@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-27T22:48:48.255594+00:00",
+  "last_updated": "2026-09-28T01:24:13.708769+00:00",
   "count": 96,
   "posts": [
     {
@@ -23,8 +23,8 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 94,
-      "views": 723,
-      "status": "old"
+      "views": 728,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -77,8 +77,8 @@
     {
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
-      "views": 227,
-      "status": "old"
+      "views": 228,
+      "status": "updated"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -89,8 +89,8 @@
     {
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
-      "views": 217,
-      "status": "old"
+      "views": 218,
+      "status": "updated"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -107,8 +107,8 @@
     {
       "title": "「YouTube(重すぎ)」",
       "like": 8,
-      "views": 96,
-      "status": "old"
+      "views": 97,
+      "status": "updated"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -183,6 +183,12 @@
       "status": "old"
     },
     {
+      "title": "「君の名は。予告再現（canvas＆base64）」",
+      "like": 4,
+      "views": 46,
+      "status": "updated"
+    },
+    {
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
       "like": 4,
       "views": 31,
@@ -210,12 +216,6 @@
       "title": "「ひまわりの約束　秦 基博【サウンドプログラミング】」",
       "like": 3,
       "views": 21,
-      "status": "old"
-    },
-    {
-      "title": "「君の名は。予告再現（canvas＆base64）」",
-      "like": 3,
-      "views": 45,
       "status": "old"
     },
     {
@@ -525,6 +525,12 @@
       "status": "old"
     },
     {
+      "title": "「スクラッチ（埋め込みテスト）」",
+      "like": 1,
+      "views": 8,
+      "status": "updated"
+    },
+    {
       "title": "「サウンドプログラム一覧」",
       "like": 1,
       "views": 4,
@@ -540,12 +546,6 @@
       "title": "「衛星画像（NASA　API）」",
       "like": 0,
       "views": 0,
-      "status": "old"
-    },
-    {
-      "title": "「スクラッチ（埋め込みテスト）」",
-      "like": 0,
-      "views": 6,
       "status": "old"
     },
     {
