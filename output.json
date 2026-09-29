@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-09-29T01:28:21.457630+00:00",
+  "last_updated": "2026-09-29T07:25:02.489198+00:00",
   "count": 96,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 164,
       "views": 887,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 94,
       "views": 732,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -36,7 +36,7 @@
       "title": "「方程式の解を解く　【完全自作】」",
       "like": 81,
       "views": 437,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ゴリ語翻訳所　【完全自作】」",
@@ -78,7 +78,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
       "views": 231,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -186,7 +186,7 @@
       "title": "「君の名は。予告再現（canvas＆base64）」",
       "like": 4,
       "views": 47,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
@@ -576,7 +576,7 @@
       "title": "「ちゃんプロ掲示板（ファイル共有場所）」",
       "like": 0,
       "views": 9,
-      "status": "updated"
+      "status": "old"
     }
   ]
 }
