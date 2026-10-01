@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-01T00:20:54.885784+00:00",
+  "last_updated": "2026-10-01T06:20:26.639329+00:00",
   "count": 97,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 94,
       "views": 734,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -78,7 +78,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
       "views": 237,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -90,7 +90,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
       "views": 219,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -366,7 +366,7 @@
       "title": "「Spotify風」",
       "like": 2,
       "views": 10,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（花）【完全自作】」",
@@ -582,7 +582,7 @@
       "title": "「ちゃんプロAI（作成中）」",
       "like": 0,
       "views": 2,
-      "status": "new"
+      "status": "old"
     }
   ]
 }
