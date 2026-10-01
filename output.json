@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-30T20:32:05.545591+00:00",
-  "count": 96,
+  "last_updated": "2026-10-01T00:20:54.885784+00:00",
+  "count": 97,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
@@ -23,8 +23,8 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 94,
-      "views": 733,
-      "status": "old"
+      "views": 734,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -77,8 +77,8 @@
     {
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
-      "views": 235,
-      "status": "old"
+      "views": 237,
+      "status": "updated"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -89,8 +89,8 @@
     {
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
-      "views": 218,
-      "status": "old"
+      "views": 219,
+      "status": "updated"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -365,8 +365,8 @@
     {
       "title": "「Spotify風」",
       "like": 2,
-      "views": 9,
-      "status": "old"
+      "views": 10,
+      "status": "updated"
     },
     {
       "title": "「アート（花）【完全自作】」",
@@ -577,6 +577,12 @@
       "like": 0,
       "views": 9,
       "status": "old"
+    },
+    {
+      "title": "「ちゃんプロAI（作成中）」",
+      "like": 0,
+      "views": 2,
+      "status": "new"
     }
   ]
 }
