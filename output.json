@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T20:04:42.638178+00:00",
-  "count": 97,
+  "last_updated": "2026-10-02T23:56:36.232506+00:00",
+  "count": 98,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
@@ -23,8 +23,8 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 94,
-      "views": 746,
-      "status": "old"
+      "views": 751,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -89,8 +89,8 @@
     {
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
-      "views": 222,
-      "status": "old"
+      "views": 223,
+      "status": "updated"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -101,8 +101,8 @@
     {
       "title": "「google風」",
       "like": 8,
-      "views": 88,
-      "status": "old"
+      "views": 89,
+      "status": "updated"
     },
     {
       "title": "「YouTube(重すぎ)」",
@@ -375,6 +375,12 @@
       "status": "old"
     },
     {
+      "title": "「ちゃんプロAI（作成中）」",
+      "like": 2,
+      "views": 9,
+      "status": "updated"
+    },
+    {
       "title": "「アート（花）【完全自作】」",
       "like": 1,
       "views": 8,
@@ -533,8 +539,8 @@
     {
       "title": "「スクラッチ（埋め込みテスト）」",
       "like": 1,
-      "views": 9,
-      "status": "old"
+      "views": 10,
+      "status": "updated"
     },
     {
       "title": "「サウンドプログラム一覧」",
@@ -561,12 +567,6 @@
       "status": "old"
     },
     {
-      "title": "「ちゃんプロAI（作成中）」",
-      "like": 1,
-      "views": 8,
-      "status": "old"
-    },
-    {
       "title": "「協力ゲーム」",
       "like": 0,
       "views": 8,
@@ -583,6 +583,12 @@
       "like": 0,
       "views": 10,
       "status": "old"
+    },
+    {
+      "title": "「自分の位置が大体わかるプログラム(IP情報による)」",
+      "like": 0,
+      "views": 0,
+      "status": "new"
     }
   ]
 }
