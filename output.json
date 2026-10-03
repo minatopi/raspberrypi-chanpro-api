@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T23:56:36.232506+00:00",
+  "last_updated": "2026-10-03T04:19:15.084768+00:00",
   "count": 98,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 94,
       "views": 751,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -90,7 +90,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
       "views": 223,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -102,7 +102,7 @@
       "title": "「google風」",
       "like": 8,
       "views": 89,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「YouTube(重すぎ)」",
@@ -378,7 +378,7 @@
       "title": "「ちゃんプロAI（作成中）」",
       "like": 2,
       "views": 9,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（花）【完全自作】」",
@@ -540,7 +540,7 @@
       "title": "「スクラッチ（埋め込みテスト）」",
       "like": 1,
       "views": 10,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「サウンドプログラム一覧」",
@@ -588,7 +588,7 @@
       "title": "「自分の位置が大体わかるプログラム(IP情報による)」",
       "like": 0,
       "views": 0,
-      "status": "new"
+      "status": "old"
     }
   ]
 }
