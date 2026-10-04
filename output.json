@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T06:11:50.552328+00:00",
+  "last_updated": "2026-10-04T12:43:25.069255+00:00",
   "count": 98,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 95,
       "views": 758,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -90,7 +90,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
       "views": 226,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -132,7 +132,7 @@
       "title": "「AIvsAIのAI人狼！」",
       "like": 6,
       "views": 41,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -156,7 +156,7 @@
       "title": "「君の名は。予告再現（canvas＆base64）」",
       "like": 5,
       "views": 49,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ピアノロール　超真っ黒ナイトオブナイト」",
@@ -246,7 +246,7 @@
       "title": "「ちゃんプロAI（作成中）」",
       "like": 3,
       "views": 16,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「軌道（放物線) 【完全自作版】」",
@@ -510,7 +510,7 @@
       "title": "「アゲハ蝶　ポルノグラフィティ【サウンドプログラム】」",
       "like": 1,
       "views": 4,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「衛星画像（NASA　API）」",
@@ -540,7 +540,7 @@
       "title": "「スクラッチ（埋め込みテスト）」",
       "like": 1,
       "views": 12,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「サウンドプログラム一覧」",
@@ -570,7 +570,7 @@
       "title": "「自分の位置が大体わかるプログラム(IP情報による)」",
       "like": 1,
       "views": 5,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「協力ゲーム」",
