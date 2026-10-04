@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-03T21:58:29.410799+00:00",
+  "last_updated": "2026-10-04T00:27:04.269505+00:00",
   "count": 98,
   "posts": [
     {
@@ -23,8 +23,8 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 95,
-      "views": 753,
-      "status": "old"
+      "views": 755,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -77,8 +77,8 @@
     {
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
-      "views": 240,
-      "status": "old"
+      "views": 241,
+      "status": "updated"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -243,6 +243,12 @@
       "status": "old"
     },
     {
+      "title": "「ちゃんプロAI（作成中）」",
+      "like": 3,
+      "views": 14,
+      "status": "updated"
+    },
+    {
       "title": "「軌道（放物線) 【完全自作版】」",
       "like": 2,
       "views": 13,
@@ -370,12 +376,6 @@
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）2」",
-      "like": 2,
-      "views": 9,
-      "status": "old"
-    },
-    {
-      "title": "「ちゃんプロAI（作成中）」",
       "like": 2,
       "views": 9,
       "status": "old"
@@ -581,8 +581,8 @@
     {
       "title": "「ちゃんプロ掲示板（ファイル共有場所）」",
       "like": 0,
-      "views": 10,
-      "status": "old"
+      "views": 11,
+      "status": "updated"
     },
     {
       "title": "「自分の位置が大体わかるプログラム(IP情報による)」",
