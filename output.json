@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-04T23:27:17.757719+00:00",
+  "last_updated": "2026-10-05T02:16:54.187284+00:00",
   "count": 98,
   "posts": [
     {
@@ -48,7 +48,7 @@
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】」",
       "like": 65,
       "views": 152,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ランダム迷路作成　 プログラミングアートコンテストプログラム 特別賞受賞作品」",
@@ -78,7 +78,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
       "views": 243,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -102,13 +102,13 @@
       "title": "「google風」",
       "like": 8,
       "views": 91,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「YouTube(重すぎ)」",
       "like": 8,
       "views": 102,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -120,7 +120,7 @@
       "title": "「千本桜　初音ミク【サウンドプログラミング】」",
       "like": 6,
       "views": 60,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「怪獣　YOASOBI【サウンドプログラミング】」",
@@ -132,7 +132,7 @@
       "title": "「AIvsAIのAI人狼！」",
       "like": 6,
       "views": 42,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -270,7 +270,7 @@
       "title": "「グッバイ宣言　Chinozo【サウンドプログラミング】」",
       "like": 2,
       "views": 40,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「群青　YOASOBI【サウンドプログラミング】」",
@@ -294,7 +294,7 @@
       "title": "「スパークル　RADWIMPS【サウンドプログラミング】」",
       "like": 2,
       "views": 48,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「うっせぇわ　Ado【サウンドプログラミング】」",
@@ -558,7 +558,7 @@
       "title": "「協力ゲーム」",
       "like": 1,
       "views": 9,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「実験中」",
@@ -588,7 +588,7 @@
       "title": "「ちゃんプロ掲示板（ファイル共有場所）」",
       "like": 0,
       "views": 12,
-      "status": "updated"
+      "status": "old"
     }
   ]
 }
