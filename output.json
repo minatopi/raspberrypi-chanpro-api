@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-06T07:11:00.728030+00:00",
+  "last_updated": "2026-10-06T14:22:06.743241+00:00",
   "count": 98,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 95,
       "views": 762,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -78,7 +78,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
       "views": 246,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -102,7 +102,7 @@
       "title": "「google風」",
       "like": 8,
       "views": 92,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「YouTube(重すぎ)」",
@@ -576,7 +576,7 @@
       "title": "「自分の位置が大体わかるプログラム(IP情報による)」",
       "like": 1,
       "views": 7,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「きゅうくらりん　いよわ　【サウンドプログラム】」",
