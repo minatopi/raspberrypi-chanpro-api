@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T04:21:22.218399+00:00",
+  "last_updated": "2026-10-07T11:14:59.810712+00:00",
   "count": 98,
   "posts": [
     {
@@ -12,7 +12,7 @@
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
       "like": 156,
       "views": 639,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「buttonを使った電卓(修正)」",
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 96,
       "views": 769,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -78,7 +78,7 @@
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
       "views": 254,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -102,7 +102,7 @@
       "title": "「google風」",
       "like": 8,
       "views": 93,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「YouTube(重すぎ)」",
@@ -132,7 +132,7 @@
       "title": "「AIvsAIのAI人狼！」",
       "like": 6,
       "views": 44,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -246,7 +246,7 @@
       "title": "「ちゃんプロAI（作成中）」",
       "like": 3,
       "views": 17,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「軌道（放物線) 【完全自作版】」",
@@ -378,13 +378,13 @@
       "title": "「ポストいいねテスト（プログラムは空）2」",
       "like": 2,
       "views": 10,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「こうくんからの相談プログラム」",
       "like": 2,
       "views": 7,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（花）【完全自作】」",
