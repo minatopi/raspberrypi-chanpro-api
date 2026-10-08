@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-07T22:43:00.021005+00:00",
+  "last_updated": "2026-10-08T02:30:30.916874+00:00",
   "count": 98,
   "posts": [
     {
@@ -23,8 +23,8 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 96,
-      "views": 769,
-      "status": "old"
+      "views": 770,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -77,8 +77,8 @@
     {
       "title": "「ちゃんプロ専用Webコミュニティ(投稿サイト)」",
       "like": 12,
-      "views": 254,
-      "status": "old"
+      "views": 255,
+      "status": "updated"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -89,8 +89,8 @@
     {
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
-      "views": 226,
-      "status": "old"
+      "views": 228,
+      "status": "updated"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -221,8 +221,8 @@
     {
       "title": "「今、再生回数が一番多い曲一覧(githubによる定期実行)」",
       "like": 3,
-      "views": 10,
-      "status": "old"
+      "views": 11,
+      "status": "updated"
     },
     {
       "title": "「あくあ色パレット　湊あくあ　HTML版【サウンドプログラム】」",
@@ -575,8 +575,8 @@
     {
       "title": "「自分の位置が大体わかるプログラム(IP情報による)」",
       "like": 1,
-      "views": 7,
-      "status": "old"
+      "views": 8,
+      "status": "updated"
     },
     {
       "title": "「きゅうくらりん　いよわ　【サウンドプログラム】」",
