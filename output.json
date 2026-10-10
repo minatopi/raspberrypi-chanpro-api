@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T01:05:16.260233+00:00",
+  "last_updated": "2026-10-10T07:30:47.863070+00:00",
   "count": 97,
   "posts": [
     {
@@ -23,7 +23,7 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 98,
-      "views": 782,
+      "views": 785,
       "status": "updated"
     },
     {
@@ -60,7 +60,7 @@
       "title": "「標準電極電位から電圧を計算！【完全自作】」",
       "like": 34,
       "views": 150,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「余事象（サイコロ）【完全自作】」",
@@ -77,7 +77,7 @@
     {
       "title": "「ちゃんプロポスト(Xみたいなやつ)」",
       "like": 12,
-      "views": 267,
+      "views": 271,
       "status": "updated"
     },
     {
@@ -89,7 +89,7 @@
     {
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
-      "views": 230,
+      "views": 231,
       "status": "updated"
     },
     {
@@ -108,7 +108,7 @@
       "title": "「YouTube(重すぎ)」",
       "like": 8,
       "views": 103,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -131,8 +131,8 @@
     {
       "title": "「AIvsAIのAI人狼！」",
       "like": 6,
-      "views": 44,
-      "status": "old"
+      "views": 45,
+      "status": "updated"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -545,8 +545,8 @@
     {
       "title": "「スクラッチ（埋め込みテスト）」",
       "like": 1,
-      "views": 12,
-      "status": "old"
+      "views": 13,
+      "status": "updated"
     },
     {
       "title": "「サウンドプログラム一覧」",
