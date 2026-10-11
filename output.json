@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-10T22:12:33.755252+00:00",
+  "last_updated": "2026-10-11T01:07:05.370326+00:00",
   "count": 97,
   "posts": [
     {
@@ -23,8 +23,8 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 98,
-      "views": 785,
-      "status": "old"
+      "views": 787,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -77,8 +77,8 @@
     {
       "title": "「ちゃんプロポスト(Xみたいなやつ)」",
       "like": 12,
-      "views": 271,
-      "status": "old"
+      "views": 275,
+      "status": "updated"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -89,8 +89,8 @@
     {
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
-      "views": 231,
-      "status": "old"
+      "views": 232,
+      "status": "updated"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -237,6 +237,12 @@
       "status": "old"
     },
     {
+      "title": "「こうくんからの相談プログラム」",
+      "like": 3,
+      "views": 9,
+      "status": "updated"
+    },
+    {
       "title": "「テスト」",
       "like": 3,
       "views": 22,
@@ -381,12 +387,6 @@
       "status": "old"
     },
     {
-      "title": "「こうくんからの相談プログラム」",
-      "like": 2,
-      "views": 7,
-      "status": "old"
-    },
-    {
       "title": "「アート（花）【完全自作】」",
       "like": 1,
       "views": 8,
@@ -527,8 +527,8 @@
     {
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 1,
-      "views": 42,
-      "status": "old"
+      "views": 43,
+      "status": "updated"
     },
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
