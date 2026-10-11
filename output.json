@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-11T01:07:05.370326+00:00",
+  "last_updated": "2026-10-11T07:35:23.024838+00:00",
   "count": 97,
   "posts": [
     {
@@ -23,7 +23,7 @@
     {
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 98,
-      "views": 787,
+      "views": 790,
       "status": "updated"
     },
     {
@@ -77,7 +77,7 @@
     {
       "title": "「ちゃんプロポスト(Xみたいなやつ)」",
       "like": 12,
-      "views": 275,
+      "views": 276,
       "status": "updated"
     },
     {
@@ -89,7 +89,7 @@
     {
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
-      "views": 232,
+      "views": 233,
       "status": "updated"
     },
     {
@@ -240,7 +240,7 @@
       "title": "「こうくんからの相談プログラム」",
       "like": 3,
       "views": 9,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「テスト」",
@@ -528,7 +528,7 @@
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 1,
       "views": 43,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
