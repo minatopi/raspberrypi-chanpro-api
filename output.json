@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-12T10:13:43.401931+00:00",
+  "last_updated": "2026-10-12T19:55:16.842913+00:00",
   "count": 96,
   "posts": [
     {
@@ -30,7 +30,7 @@
       "title": "「方程式の解を解く　【完全自作】」",
       "like": 82,
       "views": 438,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -42,7 +42,7 @@
       "title": "「ゴリ語翻訳所　【完全自作】」",
       "like": 67,
       "views": 384,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】」",
@@ -78,7 +78,7 @@
       "title": "「ちゃんプロポスト(Xみたいなやつ)」",
       "like": 12,
       "views": 280,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「偏差値を計算！　真の優秀差【完全自作】」",
@@ -102,7 +102,7 @@
       "title": "「google風」",
       "like": 8,
       "views": 94,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「YouTube(重すぎ)」",
@@ -528,7 +528,7 @@
       "title": "「Spotify風音楽共有プログラム(作成中)」",
       "like": 1,
       "views": 18,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「こうせいくんへの例プログラム」",
