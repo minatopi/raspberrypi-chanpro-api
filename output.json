@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-12T02:33:22.996635+00:00",
-  "count": 97,
+  "last_updated": "2026-10-12T10:13:43.401931+00:00",
+  "count": 96,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
@@ -24,6 +24,12 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 98,
       "views": 794,
+      "status": "old"
+    },
+    {
+      "title": "「方程式の解を解く　【完全自作】」",
+      "like": 82,
+      "views": 438,
       "status": "updated"
     },
     {
@@ -33,16 +39,10 @@
       "status": "old"
     },
     {
-      "title": "「方程式の解を解く　【完全自作】」",
-      "like": 81,
-      "views": 437,
-      "status": "old"
-    },
-    {
       "title": "「ゴリ語翻訳所　【完全自作】」",
       "like": 67,
-      "views": 383,
-      "status": "old"
+      "views": 384,
+      "status": "updated"
     },
     {
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】」",
@@ -77,7 +77,7 @@
     {
       "title": "「ちゃんプロポスト(Xみたいなやつ)」",
       "like": 12,
-      "views": 279,
+      "views": 280,
       "status": "updated"
     },
     {
@@ -90,7 +90,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
       "views": 234,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -101,8 +101,8 @@
     {
       "title": "「google風」",
       "like": 8,
-      "views": 93,
-      "status": "old"
+      "views": 94,
+      "status": "updated"
     },
     {
       "title": "「YouTube(重すぎ)」",
@@ -375,12 +375,6 @@
       "status": "old"
     },
     {
-      "title": "「Spotify風」",
-      "like": 2,
-      "views": 10,
-      "status": "old"
-    },
-    {
       "title": "「ポストいいねテスト（プログラムは空）2」",
       "like": 2,
       "views": 10,
@@ -533,7 +527,7 @@
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
       "like": 1,
-      "views": 16,
+      "views": 18,
       "status": "updated"
     },
     {
@@ -546,7 +540,7 @@
       "title": "「スクラッチ（埋め込みテスト）」",
       "like": 1,
       "views": 14,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「サウンドプログラム一覧」",
