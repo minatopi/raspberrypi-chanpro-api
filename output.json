@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-13T08:56:32.211518+00:00",
+  "last_updated": "2026-10-13T16:46:02.248991+00:00",
   "count": 96,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 100,
       "views": 799,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -72,7 +72,7 @@
       "title": "「ちゃんプロポスト(Xみたいなやつ)」",
       "like": 14,
       "views": 286,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム2⃣　強くなった！　AI対戦！（作成者、まだ、勝ててない） 本家【完全自作】」",
@@ -132,7 +132,7 @@
       "title": "「AIvsAIのAI人狼！」",
       "like": 6,
       "views": 46,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -240,7 +240,7 @@
       "title": "「こうくんからの相談プログラム」",
       "like": 3,
       "views": 10,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「テスト」",
@@ -378,7 +378,7 @@
       "title": "「Spotify風音楽共有プログラム(作成中)」",
       "like": 2,
       "views": 19,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）2」",
