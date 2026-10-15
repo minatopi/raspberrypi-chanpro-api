@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T01:38:34.910745+00:00",
+  "last_updated": "2026-10-15T06:57:14.764316+00:00",
   "count": 96,
   "posts": [
     {
@@ -24,13 +24,13 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 101,
       "views": 804,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
       "like": 82,
       "views": 231,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -72,7 +72,7 @@
       "title": "「ちゃんプロポスト(Xみたいなやつ)」",
       "like": 14,
       "views": 296,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム2⃣　強くなった！　AI対戦！（作成者、まだ、勝ててない） 本家【完全自作】」",
@@ -90,7 +90,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
       "views": 236,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -528,7 +528,7 @@
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 1,
       "views": 47,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「こうせいくんへの例プログラム」",
@@ -540,7 +540,7 @@
       "title": "「スクラッチ（埋め込みテスト）」",
       "like": 1,
       "views": 15,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「サウンドプログラム一覧」",
