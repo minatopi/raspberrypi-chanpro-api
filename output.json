@@ -1,18 +1,18 @@
 {
-  "last_updated": "2026-10-18T23:28:15.714611+00:00",
+  "last_updated": "2026-10-19T01:32:58.195929+00:00",
   "count": 96,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 164,
       "views": 891,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
       "like": 156,
       "views": 642,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「buttonを使った電卓(修正)」",
@@ -24,13 +24,13 @@
       "title": "「mqttを使ったチャットボックス(分散型履歴同期チャット)　まだまだ、拡張中！」",
       "like": 103,
       "views": 832,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
       "like": 82,
       "views": 232,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「方程式の解を解く　【完全自作】」",
@@ -72,7 +72,7 @@
       "title": "「ちゃんプロポスト(Xみたいなやつ)」",
       "like": 15,
       "views": 334,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム2⃣　強くなった！　AI対戦！（作成者、まだ、勝ててない） 本家【完全自作】」",
@@ -108,7 +108,7 @@
       "title": "「YouTube(重すぎ)」",
       "like": 8,
       "views": 106,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -204,7 +204,7 @@
       "title": "「正面衝突事故の怖さを知るプログラム　【完全自作】」",
       "like": 3,
       "views": 33,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「プッシュ音（ほとんど完全自作）」",
@@ -246,7 +246,7 @@
       "title": "「こうくんからの相談プログラム」",
       "like": 3,
       "views": 13,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「テスト」",
@@ -384,7 +384,7 @@
       "title": "「Spotify風音楽共有プログラム(作成中)」",
       "like": 2,
       "views": 20,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）2」",
@@ -396,7 +396,7 @@
       "title": "「サウンドプログラム一覧」",
       "like": 2,
       "views": 7,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（花）【完全自作】」",
