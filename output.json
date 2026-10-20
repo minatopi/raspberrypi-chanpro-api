@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-20T03:26:01.692808+00:00",
+  "last_updated": "2026-10-20T08:47:39.514407+00:00",
   "count": 97,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 164,
       "views": 893,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
@@ -24,7 +24,7 @@
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 103,
       "views": 839,
-      "status": "new"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -72,7 +72,7 @@
       "title": "「ちゃんプロポスト(Xみたいなやつ)」",
       "like": 15,
       "views": 339,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム2⃣　強くなった！　AI対戦！（作成者、まだ、勝ててない） 本家【完全自作】」",
@@ -90,7 +90,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
       "views": 248,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -569,8 +569,8 @@
     {
       "title": "「画像認識(TensorFlow.js)」",
       "like": 1,
-      "views": 2,
-      "status": "new"
+      "views": 4,
+      "status": "updated"
     },
     {
       "title": "「きゅうくらりん　いよわ　【サウンドプログラム】」",
