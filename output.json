@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-21T00:45:11.518069+00:00",
+  "last_updated": "2026-10-21T05:42:53.096153+00:00",
   "count": 97,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 103,
       "views": 848,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -72,7 +72,7 @@
       "title": "「ちゃんプロポスト(Xみたいなやつ)」",
       "like": 15,
       "views": 345,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム2⃣　強くなった！　AI対戦！（作成者、まだ、勝ててない） 本家【完全自作】」",
@@ -90,7 +90,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
       "views": 249,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -252,7 +252,7 @@
       "title": "「テスト」",
       "like": 3,
       "views": 23,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ちゃんプロAI（作成中）」",
@@ -402,7 +402,7 @@
       "title": "「画像認識(TensorFlow.js)」",
       "like": 2,
       "views": 8,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（花）【完全自作】」",
