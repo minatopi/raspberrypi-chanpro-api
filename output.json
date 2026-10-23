@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-23T00:48:06.177181+00:00",
+  "last_updated": "2026-10-23T05:43:39.208569+00:00",
   "count": 97,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 164,
       "views": 894,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
@@ -24,7 +24,7 @@
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 103,
       "views": 860,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -108,7 +108,7 @@
       "title": "「YouTube(重すぎ)」",
       "like": 8,
       "views": 108,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「前前前世　RADWIMPS【サウンドプログラミング】」",
@@ -132,7 +132,7 @@
       "title": "「君の名は。予告再現（canvas＆base64）」",
       "like": 6,
       "views": 52,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「AIvsAIのAI人狼！」",
@@ -192,7 +192,7 @@
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
       "like": 4,
       "views": 33,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「期待値（ルーレット)　ルーレットの損か得か【完全自作】」",
@@ -252,7 +252,7 @@
       "title": "「テスト」",
       "like": 3,
       "views": 25,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ちゃんプロAI（作成中）」",
@@ -384,7 +384,7 @@
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 2,
       "views": 50,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
@@ -402,7 +402,7 @@
       "title": "「サウンドプログラム一覧」",
       "like": 2,
       "views": 9,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「画像認識(TensorFlow.js)」",
