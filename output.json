@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T20:13:31.264965+00:00",
+  "last_updated": "2026-10-24T22:37:33.973982+00:00",
   "count": 95,
   "posts": [
     {
@@ -23,8 +23,8 @@
     {
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 103,
-      "views": 875,
-      "status": "old"
+      "views": 883,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -83,8 +83,8 @@
     {
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
-      "views": 254,
-      "status": "old"
+      "views": 255,
+      "status": "updated"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -95,8 +95,8 @@
     {
       "title": "「google風」",
       "like": 8,
-      "views": 94,
-      "status": "old"
+      "views": 95,
+      "status": "updated"
     },
     {
       "title": "「YouTube(重すぎ)」",
@@ -231,6 +231,12 @@
       "status": "old"
     },
     {
+      "title": "「画面共有プログラム（実験）【完全AI生成】」",
+      "like": 3,
+      "views": 53,
+      "status": "updated"
+    },
+    {
       "title": "「ポストいいねテスト（プログラムは空）」",
       "like": 3,
       "views": 5,
@@ -245,8 +251,8 @@
     {
       "title": "「テスト」",
       "like": 3,
-      "views": 25,
-      "status": "old"
+      "views": 27,
+      "status": "updated"
     },
     {
       "title": "「ちゃんプロAI（作成中）」",
@@ -372,12 +378,6 @@
       "title": "「夜の踊り子(一部)　サカナクション【サウンドプログラミング】」",
       "like": 2,
       "views": 15,
-      "status": "old"
-    },
-    {
-      "title": "「画面共有プログラム（実験）【完全AI生成】」",
-      "like": 2,
-      "views": 51,
       "status": "old"
     },
     {
@@ -551,8 +551,8 @@
     {
       "title": "「協力ゲーム」",
       "like": 1,
-      "views": 9,
-      "status": "old"
+      "views": 10,
+      "status": "updated"
     },
     {
       "title": "「実験中」",
@@ -563,14 +563,14 @@
     {
       "title": "「ただ一つの声 ロクデナシ【サウンドプログラム】」",
       "like": 1,
-      "views": 1,
-      "status": "old"
+      "views": 2,
+      "status": "updated"
     },
     {
       "title": "「きゅうくらりん　いよわ　【サウンドプログラム】」",
       "like": 0,
-      "views": 0,
-      "status": "old"
+      "views": 1,
+      "status": "updated"
     }
   ]
 }
