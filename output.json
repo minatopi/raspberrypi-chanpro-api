@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-24T22:37:33.973982+00:00",
+  "last_updated": "2026-10-25T00:49:08.119295+00:00",
   "count": 95,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 103,
       "views": 883,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -84,7 +84,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
       "views": 255,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -96,7 +96,7 @@
       "title": "「google風」",
       "like": 8,
       "views": 95,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「YouTube(重すぎ)」",
@@ -234,7 +234,7 @@
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 3,
       "views": 53,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）」",
@@ -252,7 +252,7 @@
       "title": "「テスト」",
       "like": 3,
       "views": 27,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ちゃんプロAI（作成中）」",
@@ -552,7 +552,7 @@
       "title": "「協力ゲーム」",
       "like": 1,
       "views": 10,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「実験中」",
@@ -564,13 +564,13 @@
       "title": "「ただ一つの声 ロクデナシ【サウンドプログラム】」",
       "like": 1,
       "views": 2,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「きゅうくらりん　いよわ　【サウンドプログラム】」",
       "like": 0,
       "views": 1,
-      "status": "updated"
+      "status": "old"
     }
   ]
 }
