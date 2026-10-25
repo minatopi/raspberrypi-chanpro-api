@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T21:03:51.283009+00:00",
+  "last_updated": "2026-10-25T23:26:12.621851+00:00",
   "count": 95,
   "posts": [
     {
@@ -23,8 +23,8 @@
     {
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 103,
-      "views": 889,
-      "status": "old"
+      "views": 895,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -83,8 +83,8 @@
     {
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
-      "views": 255,
-      "status": "old"
+      "views": 259,
+      "status": "updated"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -125,14 +125,14 @@
     {
       "title": "「君の名は。予告再現（canvas＆base64）」",
       "like": 6,
-      "views": 52,
-      "status": "old"
+      "views": 54,
+      "status": "updated"
     },
     {
       "title": "「AIvsAIのAI人狼！」",
       "like": 6,
-      "views": 46,
-      "status": "old"
+      "views": 47,
+      "status": "updated"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -185,8 +185,8 @@
     {
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
       "like": 4,
-      "views": 33,
-      "status": "old"
+      "views": 34,
+      "status": "updated"
     },
     {
       "title": "「期待値（ルーレット)　ルーレットの損か得か【完全自作】」",
@@ -233,8 +233,8 @@
     {
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 3,
-      "views": 53,
-      "status": "old"
+      "views": 57,
+      "status": "updated"
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）」",
@@ -251,8 +251,8 @@
     {
       "title": "「テスト」",
       "like": 3,
-      "views": 27,
-      "status": "old"
+      "views": 28,
+      "status": "updated"
     },
     {
       "title": "「ちゃんプロAI（作成中）」",
@@ -389,14 +389,14 @@
     {
       "title": "「ポストいいねテスト（プログラムは空）2」",
       "like": 2,
-      "views": 11,
-      "status": "old"
+      "views": 12,
+      "status": "updated"
     },
     {
       "title": "「サウンドプログラム一覧」",
       "like": 2,
-      "views": 9,
-      "status": "old"
+      "views": 10,
+      "status": "updated"
     },
     {
       "title": "「画像認識(TensorFlow.js)」",
@@ -545,8 +545,8 @@
     {
       "title": "「スクラッチ（埋め込みテスト）」",
       "like": 1,
-      "views": 16,
-      "status": "old"
+      "views": 18,
+      "status": "updated"
     },
     {
       "title": "「協力ゲーム」",
@@ -563,8 +563,8 @@
     {
       "title": "「ただ一つの声 ロクデナシ【サウンドプログラム】」",
       "like": 1,
-      "views": 2,
-      "status": "old"
+      "views": 3,
+      "status": "updated"
     },
     {
       "title": "「きゅうくらりん　いよわ　【サウンドプログラム】」",
