@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T23:26:12.621851+00:00",
+  "last_updated": "2026-10-26T01:29:29.729619+00:00",
   "count": 95,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 103,
       "views": 895,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -84,7 +84,7 @@
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
       "views": 259,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -126,13 +126,13 @@
       "title": "「君の名は。予告再現（canvas＆base64）」",
       "like": 6,
       "views": 54,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「AIvsAIのAI人狼！」",
       "like": 6,
       "views": 47,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -186,7 +186,7 @@
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
       "like": 4,
       "views": 34,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「期待値（ルーレット)　ルーレットの損か得か【完全自作】」",
@@ -234,7 +234,7 @@
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 3,
       "views": 57,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）」",
@@ -252,7 +252,7 @@
       "title": "「テスト」",
       "like": 3,
       "views": 28,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「ちゃんプロAI（作成中）」",
@@ -390,13 +390,13 @@
       "title": "「ポストいいねテスト（プログラムは空）2」",
       "like": 2,
       "views": 12,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「サウンドプログラム一覧」",
       "like": 2,
       "views": 10,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「画像認識(TensorFlow.js)」",
@@ -546,7 +546,7 @@
       "title": "「スクラッチ（埋め込みテスト）」",
       "like": 1,
       "views": 18,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「協力ゲーム」",
@@ -564,7 +564,7 @@
       "title": "「ただ一つの声 ロクデナシ【サウンドプログラム】」",
       "like": 1,
       "views": 3,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「きゅうくらりん　いよわ　【サウンドプログラム】」",
