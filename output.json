@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-26T23:34:02.396797+00:00",
+  "last_updated": "2026-10-27T03:44:24.864487+00:00",
   "count": 95,
   "posts": [
     {
@@ -23,8 +23,8 @@
     {
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 103,
-      "views": 895,
-      "status": "old"
+      "views": 908,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -233,8 +233,8 @@
     {
       "title": "「画面共有プログラム（実験）【完全AI生成】」",
       "like": 3,
-      "views": 57,
-      "status": "old"
+      "views": 58,
+      "status": "updated"
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）」",
@@ -379,6 +379,12 @@
       "like": 2,
       "views": 15,
       "status": "old"
+    },
+    {
+      "title": "「衛星画像（NASA　API）」",
+      "like": 2,
+      "views": 3,
+      "status": "updated"
     },
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
@@ -528,12 +534,6 @@
       "title": "「アゲハ蝶　ポルノグラフィティ【サウンドプログラム】」",
       "like": 1,
       "views": 4,
-      "status": "old"
-    },
-    {
-      "title": "「衛星画像（NASA　API）」",
-      "like": 1,
-      "views": 1,
       "status": "old"
     },
     {
