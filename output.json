@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-10-29T20:25:32.395835+00:00",
-  "count": 95,
+  "last_updated": "2026-10-30T00:05:43.789899+00:00",
+  "count": 96,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 164,
-      "views": 894,
-      "status": "old"
+      "views": 895,
+      "status": "updated"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
@@ -23,8 +23,8 @@
     {
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 104,
-      "views": 922,
-      "status": "old"
+      "views": 931,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -383,8 +383,8 @@
     {
       "title": "「衛星画像（NASA　API）」",
       "like": 2,
-      "views": 3,
-      "status": "old"
+      "views": 4,
+      "status": "updated"
     },
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
@@ -407,8 +407,8 @@
     {
       "title": "「画像認識(TensorFlow.js)」",
       "like": 2,
-      "views": 14,
-      "status": "old"
+      "views": 17,
+      "status": "updated"
     },
     {
       "title": "「アート（花）【完全自作】」",
@@ -571,6 +571,12 @@
       "like": 0,
       "views": 1,
       "status": "old"
+    },
+    {
+      "title": "「INMU KING　やじゅまん【サウンドプログラム】」",
+      "like": 0,
+      "views": 0,
+      "status": "new"
     }
   ]
 }
