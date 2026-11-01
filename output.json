@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-31T22:42:07.963757+00:00",
-  "count": 96,
+  "last_updated": "2026-11-01T01:50:33.413470+00:00",
+  "count": 97,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
@@ -23,8 +23,8 @@
     {
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 104,
-      "views": 941,
-      "status": "old"
+      "views": 943,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -405,6 +405,12 @@
       "status": "old"
     },
     {
+      "title": "「実験中」",
+      "like": 2,
+      "views": 20,
+      "status": "updated"
+    },
+    {
       "title": "「画像認識(TensorFlow.js)」",
       "like": 2,
       "views": 17,
@@ -555,12 +561,6 @@
       "status": "old"
     },
     {
-      "title": "「実験中」",
-      "like": 1,
-      "views": 19,
-      "status": "old"
-    },
-    {
       "title": "「ただ一つの声 ロクデナシ【サウンドプログラム】」",
       "like": 1,
       "views": 3,
@@ -577,6 +577,12 @@
       "like": 0,
       "views": 0,
       "status": "old"
+    },
+    {
+      "title": "「サービス稼働状況」",
+      "like": 0,
+      "views": 0,
+      "status": "new"
     }
   ]
 }
