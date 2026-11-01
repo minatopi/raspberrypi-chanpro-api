@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T01:50:33.413470+00:00",
+  "last_updated": "2026-11-01T08:41:52.249408+00:00",
   "count": 97,
   "posts": [
     {
@@ -23,7 +23,7 @@
     {
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 104,
-      "views": 943,
+      "views": 946,
       "status": "updated"
     },
     {
@@ -407,7 +407,7 @@
     {
       "title": "「実験中」",
       "like": 2,
-      "views": 20,
+      "views": 21,
       "status": "updated"
     },
     {
@@ -557,8 +557,8 @@
     {
       "title": "「協力ゲーム」",
       "like": 1,
-      "views": 10,
-      "status": "old"
+      "views": 11,
+      "status": "updated"
     },
     {
       "title": "「ただ一つの声 ロクデナシ【サウンドプログラム】」",
@@ -582,7 +582,7 @@
       "title": "「サービス稼働状況」",
       "like": 0,
       "views": 0,
-      "status": "new"
+      "status": "old"
     }
   ]
 }
