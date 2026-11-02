@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-01T23:44:56.607320+00:00",
+  "last_updated": "2026-11-02T04:29:01.081116+00:00",
   "count": 97,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 104,
       "views": 950,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -408,7 +408,7 @@
       "title": "「実験中」",
       "like": 2,
       "views": 23,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「画像認識(TensorFlow.js)」",
