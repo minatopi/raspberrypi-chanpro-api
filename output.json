@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-04T00:03:42.054860+00:00",
-  "count": 97,
+  "last_updated": "2026-11-04T06:50:11.281972+00:00",
+  "count": 98,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 164,
-      "views": 895,
-      "status": "old"
+      "views": 896,
+      "status": "updated"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
@@ -23,8 +23,8 @@
     {
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 104,
-      "views": 956,
-      "status": "old"
+      "views": 962,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -41,8 +41,8 @@
     {
       "title": "「ゴリ語翻訳所　【完全自作】」",
       "like": 67,
-      "views": 386,
-      "status": "old"
+      "views": 387,
+      "status": "updated"
     },
     {
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】」",
@@ -83,8 +83,8 @@
     {
       "title": "「チャットボックスのポイントのランキング　top10」",
       "like": 10,
-      "views": 261,
-      "status": "old"
+      "views": 262,
+      "status": "updated"
     },
     {
       "title": "「アート（なんかあれ）【完全自作】」",
@@ -583,6 +583,12 @@
       "like": 0,
       "views": 0,
       "status": "old"
+    },
+    {
+      "title": "「YouTubeプロフィール習得」",
+      "like": 0,
+      "views": 1,
+      "status": "new"
     }
   ]
 }
