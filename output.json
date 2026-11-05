@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T21:23:48.157340+00:00",
-  "count": 98,
+  "last_updated": "2026-11-05T01:37:39.371234+00:00",
+  "count": 99,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
@@ -23,8 +23,8 @@
     {
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 104,
-      "views": 962,
-      "status": "old"
+      "views": 965,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -47,8 +47,8 @@
     {
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】」",
       "like": 66,
-      "views": 153,
-      "status": "old"
+      "views": 154,
+      "status": "updated"
     },
     {
       "title": "「ランダム迷路作成　 プログラミングアートコンテストプログラム 特別賞受賞作品」",
@@ -567,10 +567,16 @@
       "status": "old"
     },
     {
+      "title": "「Scratchのアカウント持ってる人、集まれ！」",
+      "like": 1,
+      "views": 4,
+      "status": "new"
+    },
+    {
       "title": "「きゅうくらりん　いよわ　【サウンドプログラム】」",
       "like": 0,
-      "views": 1,
-      "status": "old"
+      "views": 2,
+      "status": "updated"
     },
     {
       "title": "「INMU KING　やじゅまん【サウンドプログラム】」",
