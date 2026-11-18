@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-18T10:29:20.527593+00:00",
+  "last_updated": "2026-11-18T18:59:29.485304+00:00",
   "count": 98,
   "posts": [
     {
@@ -24,7 +24,7 @@
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 104,
       "views": 1010,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -42,7 +42,7 @@
       "title": "「ゴリ語翻訳所　【完全自作】」",
       "like": 67,
       "views": 389,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「あいつら全員同窓会　ずっと真夜中でいいのに。【サウンドプログラミング】」",
@@ -126,7 +126,7 @@
       "title": "「君の名は。予告再現（canvas＆base64）」",
       "like": 6,
       "views": 57,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「AIvsAIのAI人狼！」",
@@ -252,7 +252,7 @@
       "title": "「テスト」",
       "like": 3,
       "views": 29,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「軌道（放物線) 【完全自作版】」",
@@ -582,7 +582,7 @@
       "title": "「サービス稼働状況」",
       "like": 0,
       "views": 2,
-      "status": "updated"
+      "status": "old"
     },
     {
       "title": "「YouTubeプロフィール習得」",
