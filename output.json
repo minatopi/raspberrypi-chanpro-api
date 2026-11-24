@@ -1,12 +1,12 @@
 {
-  "last_updated": "2026-11-23T22:48:38.839598+00:00",
+  "last_updated": "2026-11-24T06:44:10.643679+00:00",
   "count": 99,
   "posts": [
     {
       "title": "「翼をください（ともちゃんが流れ良く流れるようにしてくれました。>_<）　修正版」",
       "like": 164,
-      "views": 898,
-      "status": "old"
+      "views": 899,
+      "status": "updated"
     },
     {
       "title": "「〇×ゲーム（完成編）(これが本家)AI対戦！【完全自作】」",
@@ -23,8 +23,8 @@
     {
       "title": "「chanpro-gather(チャットとポスト統一)」",
       "like": 104,
-      "views": 1032,
-      "status": "old"
+      "views": 1043,
+      "status": "updated"
     },
     {
       "title": "「円グラフを作成！【完全自作】」",
@@ -113,8 +113,8 @@
     {
       "title": "「千本桜　初音ミク【サウンドプログラミング】」",
       "like": 6,
-      "views": 60,
-      "status": "old"
+      "views": 62,
+      "status": "updated"
     },
     {
       "title": "「怪獣　YOASOBI【サウンドプログラミング】」",
@@ -131,8 +131,8 @@
     {
       "title": "「AIvsAIのAI人狼！」",
       "like": 6,
-      "views": 48,
-      "status": "old"
+      "views": 52,
+      "status": "updated"
     },
     {
       "title": "「立方体【完全自作】」",
@@ -185,8 +185,8 @@
     {
       "title": "「自身のシェアプログラムの閲覧回数、評価をgithabによる自作APIを使い、管理を行うプログラム」",
       "like": 4,
-      "views": 35,
-      "status": "old"
+      "views": 37,
+      "status": "updated"
     },
     {
       "title": "「期待値（ルーレット)　ルーレットの損か得か【完全自作】」",
@@ -239,8 +239,8 @@
     {
       "title": "「Spotify風音楽共有プログラム(作成中)」",
       "like": 3,
-      "views": 23,
-      "status": "old"
+      "views": 24,
+      "status": "updated"
     },
     {
       "title": "「ポストいいねテスト（プログラムは空）」",
@@ -425,8 +425,8 @@
     {
       "title": "「ライブ2D」",
       "like": 2,
-      "views": 17,
-      "status": "old"
+      "views": 18,
+      "status": "updated"
     },
     {
       "title": "「アート（花）【完全自作】」",
@@ -593,8 +593,8 @@
     {
       "title": "「YouTubeプロフィール習得」",
       "like": 0,
-      "views": 1,
-      "status": "old"
+      "views": 2,
+      "status": "updated"
     }
   ]
 }
